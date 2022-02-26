@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @final3blindside.
 - 👀 I’m interested in Music, Coding, and Business.
-- 🌱 I’m currently learning CSS, JavaScript, Python and other tech stacks.
+- 🌱 I’m currently learning CSS, JavaScript, and other tech stacks.
 - 💞️ I’m looking to collaborate on projects that are fun, beneficial and progressive.
 - 📫 How to reach me? I don't have any social media accounts, just YouTube all the way.
 

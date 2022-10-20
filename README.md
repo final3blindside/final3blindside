@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif" width="200" />
 </div>
+<img src="https://komarev.com/ghpvc/?username=final3blindside&style=flat-square&color=blue" alt=""/>
 
 
 - *Profile and Websites currently being renovated and re-learned, you may come back after December 2022*

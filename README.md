@@ -3,11 +3,11 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=final3blindside&style=flat-square&color=blue" alt="" align="center"/>
 
-<div align="center">
-🧱<b> August 2, 2022 - December 31, 2022 : final3blindside's 5-month Upskilling Campaign --- Allow me to be better next time around </b>🧱 
+
+🧱**August 2, 2022 - December 31, 2022 : final3blindside's 5-month Upskilling Campaign --- Allow me to be better next time**🧱 
   <br>
-🛠️<b>Profile and Websites currently being renovated and re-learned, you may come back for more after December 2022 </b>🛠️
-</div>
+🛠️**Profile and Websites currently being renovated and re-learned, you may come back for more after December 2022.**🛠️
+
   <hr>
 
 - 👋 Hi, I’m @final3blindside.

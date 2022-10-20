@@ -1,14 +1,14 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif" width="500" padding="1px" />
+  <img src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif" width="200" />
 </div>
 
 
 - *Profile and Websites currently being renovated and re-learned, you may come back after December 2022*
 - 👋 Hi, I’m @final3blindside.
-- 👀 I’m interested in Music, Coding, and Business.
+- 👀 I’m interested in UX Design and Data Aaalytics
 - 🌱 I’m currently learning CSS, JavaScript, and other tech stacks.
 - 💞️ I’m looking to collaborate on projects that are fun, beneficial and progressive.
-- 📫 How to reach me? I don't have any social media accounts, just YouTube all the way.
+- 📫 *I will make social media accounts in the near future*
 
 
 <!---

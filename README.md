@@ -1,3 +1,8 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif" width="100" />
+</div>
+
+
 - *Profile and Websites currently being renovated and re-learned, you may come back after December 2022*
 - 👋 Hi, I’m @final3blindside.
 - 👀 I’m interested in Music, Coding, and Business.

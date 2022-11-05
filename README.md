@@ -11,7 +11,7 @@
   <hr>
 
 - 👋 Hi, I’m @final3blindside.
-- 👀 I’m interested in UX Design, Data Science, Quantum Computing, and Hardware Programming and Formula Student.
+- 👀 I’m interested in UX Design, Data Science, Machine Learning, Quantum Computing, Hardware Programming and Formula Student.
 - 🌱 I’m currently learning CSS, JavaScript, and other tech stacks.
 - 💞️ I’m looking to collaborate on projects that are fun, beneficial and progressive.
 - 📫 *I will make social media accounts in the near future*

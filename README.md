@@ -6,7 +6,7 @@
 ### <div align="center">I'm final3blindside, an Engineering student ⚒️ learning programming since 2020 🔥</div>  
   
 
-- 🔭 I’m currently working on [a blog](https://final3blindside.github.io/blog/)   
+- 🔭 I’m currently working on [a blog](https://final3blindside.github.io/personal-blog/)   
   
 
 - 🌱 I’m currently learning C, C++ and Python  
